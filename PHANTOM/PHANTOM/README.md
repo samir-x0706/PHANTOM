@@ -1,4 +1,4 @@
-# V3NOM
+# PHANTOM
 
 > **Lightweight Android command agent built for authorized device management, security research, and educational testing.**
 
@@ -13,7 +13,7 @@
 
 ## Overview
 
-V3NOM is a lightweight Android Studio project demonstrating a modular command-based architecture for Android applications. It is intended for Android development practice, background service implementation, and Telegram Bot integration in authorized environments.
+PHANTOM is a lightweight Android Studio project demonstrating a modular command-based architecture for Android applications. It is intended for Android development practice, background service implementation, and Telegram Bot integration in authorized environments.
 
 ## Features
 
@@ -40,7 +40,7 @@ V3NOM is a lightweight Android Studio project demonstrating a modular command-ba
 ## Installation
 
 ```bash
-git clone https://github.com/blackhatvenomm/V3NOM.git
+git clone https://github.com/samir-x0706/PHANTOM.git
 ```
 
 1. Open in Android Studio.
